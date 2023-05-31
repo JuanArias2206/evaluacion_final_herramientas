@@ -7,6 +7,6 @@
  * La función getResults recibe una lista de bytes de diferentes chars, y los concatena en un solo string, de forma que se muestre los códigos binarios de cada caracter de una palabra
 
 ### Integrantes del equipo: 
-  * Juan Manuel Arias
+  * Juan Manuel Arias 
   * Juan Diego Rojas 
   * David Lemos
